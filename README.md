@@ -9,7 +9,7 @@ When looking at positions that will need to be filled, due to employees leaving 
 
 ## Analysis Results
 ### Deliverable 1: Retiring Ttiles & Eligible Backfills
-<img src="Resources/Retiring_titles.png" width="300" height="700"> 
+<img src="Resources/Retiring_titles.png" width="300" height="400"> 
 There are seven main job titles of which employees are retirement eligible, with the majority of them being in positions Senior Engineer and Senior Staff. Four of the seven job titles are of higher level, being that they are "Senior", "Leader", or "Manager". These positions can be hard to fill, as they require more honed skills and/or seasoned experience. Therefore, a mentorship program would be of great benefit in assisting those in these lower level position, to become ready to fill these higher level positions upon mass retirement. 
 
 <img src="Resources/workforce_planning.png" width="300" height="500"> 
@@ -26,5 +26,4 @@ Looking at those with a birthdate in the year 1965 as those who could be eligibl
 However, if we broaden the birthdate range from January 1, 1952 to December 31, 1965, which includes those that are elgible for retirement, the amount of mentors available is exceptional, and well above what is needed to train the workforce for taking over as retirees leave.
 
 ## Summary
-The HP workforce is facing a large population change, with 37% of their workforce eligible for retirement. 
-
+The HP workforce is facing a large population change, with 37% of their workforce eligible for retirement. Specifically, there are seven main titles which employees are retiring from across multiple departments within the organization. For some of these positions, there are enough employees in lower level titles to take over, but for some positions, there may need to either be internal transfers from other departments or external hires. For those that have enough lower level employees to take over, there are sufficient employees eligible to be mentors to train these employees to take over in there high level roles. 
