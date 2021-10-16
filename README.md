@@ -7,9 +7,9 @@ Specifically, looking at those that are retirement elgible based on their birth 
 
 ## Analysis Results
 ### Deliverable 1: Retiring Ttiles
-<img src="Resources/Non-ref_2017_Runtime.png" width="300" height="300"> 
-- something here
-- something here
+<img src="Resources/Retiring_titles.png" width="300" height="500"> 
+- There are seven main job titles of which employees are retirement eligible, with the majority of them being in positions Senior Engineer and Senior Staff.
+- Four of the seven job titles are of higher level, being that they are "Senior", "Leader", or "Manager". These positions can be hard to fill, as they require more honed skills and/or seasoned experience. Therefore, a mentorship program would be of great benefit in assisting those in these lower level position, become ready to fill these higher level positions upon mass retirement. 
 
 ### Deliverable 2: Employee Eligible for Mentorship Program
 <img src="Resources/Non-ref_2017_Runtime.png" width="300" height="300"> 
