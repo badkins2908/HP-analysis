@@ -1,0 +1,37 @@
+dept_no,lower_title,upper_title
+d009,Trainee/Intern,Assistant Engineer
+d009,Assistant Engineer,Engineer
+d009,Engineer,Senior Engineer
+d009,Senior Engineer,Technique Leader
+d009,Staff,Senior Staff
+d009,Senior Staff,Manager
+d005,Trainee/Intern,Assistant Engineer
+d005,Assistant Engineer,Engineer
+d005,Engineer,Senior Engineer
+d005,Senior Engineer,Technique Leader
+d005,Staff,Senior Staff
+d005,Senior Staff,Manager
+d002,Staff,Senior Staff
+d002,Senior Staff,Manager
+d003,Staff,Senior Staff
+d003,Senior Staff,Manager
+d001,Staff,Senior Staff
+d001,Senior Staff,Manager
+d004,Trainee/Intern,Assistant Engineer
+d004,Assistant Engineer,Engineer
+d004,Engineer,Senior Engineer
+d004,Senior Engineer,Technique Leader
+d004,Staff,Senior Staff
+d004,Senior Staff,Manager
+d006,Trainee/Intern,Assistant Engineer
+d006,Assistant Engineer,Engineer
+d006,Engineer,Senior Engineer
+d006,Senior Engineer,Technique Leader
+d008,Trainee/Intern,Assistant Engineer
+d008,Assistant Engineer,Engineer
+d008,Engineer,Senior Engineer
+d008,Senior Engineer,Technique Leader
+d008,Staff,Senior Staff
+d008,Senior Staff,Manager
+d007,Staff,Senior Staff
+d007,Senior Staff,Manager

@@ -1,0 +1,31 @@
+dept_name,lower_title_available,current_count,upper_title_retiring,positions_to_fill,workforce_planning
+Customer Service,Assistant Engineer,46,Engineer,160,External Hires Needed
+Customer Service,Engineer,439,Senior Engineer,463,External Hires Needed
+Customer Service,,,Assistant Engineer,19,External Hires Needed
+Customer Service,Staff,2526,Senior Staff,2935,External Hires Needed
+Development,Assistant Engineer,1156,Engineer,3562,External Hires Needed
+Development,Engineer,9849,Senior Engineer,9897,External Hires Needed
+Development,,,Assistant Engineer,422,External Hires Needed
+Development,Staff,197,Senior Staff,280,External Hires Needed
+Finance,Staff,2016,Senior Staff,2451,External Hires Needed
+Human Resources,Staff,2144,Senior Staff,2547,External Hires Needed
+Marketing,Staff,2514,Senior Staff,2852,External Hires Needed
+Production,Assistant Engineer,976,Engineer,3069,External Hires Needed
+Production,Engineer,8470,Senior Engineer,8661,External Hires Needed
+Production,,,Assistant Engineer,362,External Hires Needed
+Production,Staff,250,Senior Staff,331,External Hires Needed
+Quality Management,Assistant Engineer,264,Engineer,893,External Hires Needed
+Quality Management,Engineer,2354,Senior Engineer,2443,External Hires Needed
+Quality Management,,,Assistant Engineer,106,External Hires Needed
+Research,Staff,1990,Senior Staff,2409,External Hires Needed
+Research,,,Assistant Engineer,18,External Hires Needed
+Research,Assistant Engineer,56,Engineer,207,External Hires Needed
+Sales,Staff,6253,Senior Staff,7382,External Hires Needed
+Customer Service,Senior Engineer,1245,Technique Leader,54,Mentor to Promote
+Development,Senior Engineer,27172,Technique Leader,1351,Mentor to Promote
+Production,Senior Engineer,23436,Technique Leader,1238,Mentor to Promote
+Quality Management,Senior Engineer,6584,Technique Leader,338,Mentor to Promote
+Research,Senior Engineer,1586,Technique Leader,80,Mentor to Promote
+Research,Engineer,586,Senior Engineer,564,Mentor to Promote
+Research,Senior Staff,6258,Manager,1,Mentor to Promote
+Sales,Senior Staff,20112,Manager,1,Mentor to Promote
